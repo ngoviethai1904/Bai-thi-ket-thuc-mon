@@ -9,6 +9,6 @@ web thuong mai
 <h2>hình ảnh</h2>
 <img src="trangchu.png"  width="700px"/>
 </br>
-<img src="lienhe.png"  width="700px"/>
+<img src="lienhe .png"  width="700px"/>
 </br>
 <img src="thongtin.png"  width="700px"/>
