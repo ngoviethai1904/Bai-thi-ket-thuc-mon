@@ -16,3 +16,6 @@ Xây dựng website thương mại
 <img src="thongtin.png"  width="700px"/>
 </br>
 <img src="tuongtac.png"  width="700px"/>
+<h3>Liên kết với một số báo trang web khác phần chữ nhỏ dưới hình ảnh</h3>
+</br>
+<img src="Screenshot (58).png"  width="700px"/>
